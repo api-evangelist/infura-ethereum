@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://infura.io/product/ethereum
 common:
+  - type: DomainSecurity
+    url: security/infura-ethereum-domain-security.yml
   - type: Website
     url: https://infura.io/product/ethereum
   - type: PublicAPIsListing
