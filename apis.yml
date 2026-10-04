@@ -39,7 +39,6 @@ apis:
   - name: INFURA Ethereum
     description: "Interaction with the Ethereum mainnet and several testnets"
     humanURL: https://infura.io/product/ethereum
-    baseURL: https://infura.io/product/ethereum
     tags:
       - Cryptocurrency
     properties:
