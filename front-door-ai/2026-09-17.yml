@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: infura.io
   final_host: www.infura.io
-  ownership: inherited
+  ownership: own
   owner: infura-ethereum
   shares_host_with: null
-  inherited_from: www.infura.io
+  inherited_from: null
+  alias_of: www.infura.io
   verdict: silent
-  score: null
+  score: 0
+  band: 1
+  band_label: silent
   host_score: 0
-  density: null
+  density: 0.0
   words: 330
   tiers:
     agentic: 0
